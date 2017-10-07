@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "203777784082",
+    "firebase_url": "https://whatson-72a67.firebaseio.com",
+    "project_id": "whatson-72a67",
+    "storage_bucket": "whatson-72a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203777784082:android:459ace97c1b7bd13",
+        "android_client_info": {
+          "package_name": "com.example.asus.whatson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203777784082-fa8f0gl67oaia6h17oj87f8h763p5ksm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.whatson",
+            "certificate_hash": "8f79aab1b3e28ec850cec50144c8f2c304f4f25d"
+          }
+        },
+        {
+          "client_id": "203777784082-biu2r0obm8jn94uhjchegon5a8ab1kho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDah9-N8IroXK0c0OHGXs17C5gst74JQsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203777784082-biu2r0obm8jn94uhjchegon5a8ab1kho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

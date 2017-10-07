@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_phonenumber"
+        android:enabled="true"
+        android:icon="@drawable/ic_phone_black_24dp"
+        android:title="@string/menu_phonenumber"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_email"
+        android:enabled="true"
+        android:icon="@drawable/ic_email_black_24dp"
+        android:title="@string/menu_email"
+        app:showAsAction="ifRoom" />
+</menu>
